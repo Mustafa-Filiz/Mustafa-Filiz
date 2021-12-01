@@ -26,7 +26,7 @@
 
 |Github Statistics|Streaks|Languages|
 |-|-|-|
-|[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=Mustafa-Filiz&show_icons=true&theme=dark&hide_title=true)](https://github.com/ismailharmanda)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Filiz&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Filiz&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/ismailharmanda)
+|[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=Mustafa-Filiz&show_icons=true&theme=dark&hide_title=true)](https://github.com/Mustafa-Filiz)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Filiz&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Filiz&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Mustafa-Filiz)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mustafa-Filiz&style=plastic&color=yellow)
